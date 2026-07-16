@@ -1,7 +1,0 @@
-
-
-ANML001 | Sasha | Gato | San Juan de Cumbayá | Gata de color blanco con gris, la parte de la espalda es del color gris, cuenta con la punta de una oreja cortada debido a una cirujia  | Perdido | 22/12/2025 | 0959646982
-ANML002 | Isaac | Gato | Cumbaya | EPN | Perdido | 22/12/2025 | 0959646982
-
-
-ANML003 | Miguel | Gato | Prueba de numeros y letras | Funciono  | Econtrado | 1/1/2026 | 0959646982
